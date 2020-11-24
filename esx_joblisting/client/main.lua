@@ -3,7 +3,6 @@ local Keys = {
 }
 
 local menuIsShowed = false
-local isInMarkerMiner = false
 
 ESX = nil
 
