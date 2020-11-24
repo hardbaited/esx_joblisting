@@ -2,6 +2,9 @@
 
 Simple job listing script, that i heavily modified cause i got bored of the old one :)
 
+# Requirements
+esx_jobs
+
 ## Download & Installation
 
 ### Manually
