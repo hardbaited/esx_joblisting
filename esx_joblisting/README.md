@@ -5,7 +5,7 @@ Simple job listing script, that i heavily modified cause i got bored of the old 
 ## Download & Installation
 
 ### Manually
-- Download https://github.com/ESX-Org/esx_joblisting/archive/master.zip
+- Download https://github.com/hardbaited/esx_joblisting
 - Put it in the `[esx]` directory
 
 ## Installation
