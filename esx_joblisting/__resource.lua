@@ -6,17 +6,17 @@ version '1.1.0'
 
 server_scripts {
 	'@mysql-async/lib/MySQL.lua',
-	'@hard-base/locale.lua',
+	'@es_extended/locale.lua',
 	'config.lua',
 	'locales/en.lua',
 	'server/main.lua'
 }
 
 client_scripts {
-	'@hard-base/locale.lua',
+	'@es_extended/locale.lua',
 	'config.lua',
 	'locales/en.lua',
 	'client/main.lua'
 }
 
-dependency 'hard-base'
+dependency 'es_extended'
